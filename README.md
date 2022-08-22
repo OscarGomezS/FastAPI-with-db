@@ -9,7 +9,7 @@ API en FastAPI para ingresar usuarios y visualizarlos
 Install my-project with npm
 
 ```bash
-  git clone 
+  git clone https://github.com/OscarGomezS/FastAPI-with-db.git
   py -m venv venv
   venv\Scripts\activate.bat
   pip install -r requirements.txt
